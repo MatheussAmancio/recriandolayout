@@ -10,7 +10,6 @@ body{
     width: 1092px;
     margin: 0 auto 0;
     padding-top: 71px;
-    
 }
 
 nav{
@@ -71,6 +70,16 @@ section p{
     margin: 59px 0;
 }
 
+
+footer #Borda{
+    width: 568px;
+    height: 0;
+
+    margin: 0 auto 27px;
+    border: 1px solid #00BFA6;
+    ;
+}
+
 footer{
     font-family: 'JetBrains Mono', monospace;
     color: #FFFFFF;
@@ -84,4 +93,11 @@ footer{
 footer a{
     color: #FFFFFF;  
 }
+
+#cadeado{
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+}
+
 
